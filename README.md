@@ -34,6 +34,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png" height="40" alt="Java logo"  />
+  <img width="12" />
+  <img src="https://www.php.net/images/logos/new-php-logo.png" height="40" alt="php logo"  />
 </div>
 
 ###

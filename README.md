@@ -45,8 +45,8 @@ Eager learner, problem solver, and anime enthusiast.
     <img src="https://leetcard.jacoblin.cool/RudraTiwari?theme=dark&font=Karma&ext=heatmap" height="300" alt="LeetCode Stats" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/wwwrudrab0mi/">
-    <img src="https://gfgstatscard.vercel.app/api?userName=wwwrudrab0mi&theme=dark" height="300" alt="GFG Stats" />
-  </a>
+  <img src="https://gfg-stats-card.vercel.app/api?username=wwwrudrab0mi&theme=dark" height="300" alt="GFG Stats"/>
+</a>
 </div>
 
 ---
@@ -55,25 +55,48 @@ Eager learner, problem solver, and anime enthusiast.
 
 <p align="left">Feel free to connect with me 👇</p>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/rudra-tiwari05/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/tiwar95562" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/rudratiwari285/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" />
-  </a>
-  <a href="https://stackoverflow.com/users/22989646/rudra-tiwari" target="_blank">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" width="48" height="48" alt="Stack Overflow" />
-  </a>
-  <a href="https://github.com/Rudra152005" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-  </a>
-  <a href="mailto:rudra.tiwari@example.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email" />
-  </a>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
+  <div align="center">
+    <a href="https://www.linkedin.com/in/rudra-tiwari05/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
+    </a>
+    <p align="center"><b>LinkedIn</b></p>
+  </div>
+  
+  <div align="center">
+    <a href="https://x.com/tiwar95562" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="55" height="55" alt="X" />
+    </a>
+    <p align="center"><b>X (Twitter)</b></p>
+  </div>
+
+  <div align="center">
+    <a href="https://www.instagram.com/rudratiwari285/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=instagram" width="60" height="60" alt="Instagram" />
+    </a>
+    <p align="center"><b>Instagram</b></p>
+  </div>
+
+  <div align="center">
+    <a href="https://stackoverflow.com/users/22989646/rudra-tiwari" target="_blank">
+      <img src="https://skillicons.dev/icons?i=stackoverflow" width="60" height="60" alt="Stack Overflow" />
+    </a>
+    <p align="center"><b>Stack Overflow</b></p>
+  </div>
+
+  <div align="center">
+    <a href="https://github.com/Rudra152005" target="_blank">
+      <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" />
+    </a>
+    <p align="center"><b>GitHub</b></p>
+  </div>
+
+  <div align="center">
+    <a href="mailto:rudra.tiwari@example.com" target="_blank">
+      <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
+    </a>
+    <p align="center"><b>Gmail</b></p>
+  </div>
 </div>
 
 ---

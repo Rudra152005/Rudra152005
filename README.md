@@ -31,28 +31,52 @@ Eager learner, problem solver, and anime enthusiast.
 
 <h2 align="left">📊 GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rudra152005&layout=compact&theme=dracula" height="150" alt="Languages" />
-  <img src="https://streak-stats.demolab.com?user=Rudra152005&theme=dracula" height="150" alt="Streak Stats" />
-</div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rudra152005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph " /> <img src="https://streak-stats.demolab.com?user=Rudra152005&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> </div>
 
 ---
 
 <h2 align="left">🏆 Competitive Programming Stats</h2>
 
 <!-- 🌟 LeetCode Stats Card -->
-<div align="center" style="margin: 20px 0;">
-  <a href="https://leetcode.com/u/RudraTiwari/" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://leetcard.jacoblin.cool/RudraTiwari?theme=dark&font=Karma&ext=heatmap" 
-      alt="LeetCode Stats - RudraTiwari" 
-      height="300"
-      style="border-radius: 10px; box-shadow: 0 0 10px rgba(128,0,128,0.5);" 
-    />
-  </a>
-  <p style="font-family: 'Karma', sans-serif; font-size: 16px; color: #ccc; margin-top: 10px;">
-    🚀 View My <a href="https://leetcode.com/u/RudraTiwari/" target="_blank" rel="noopener noreferrer" style="color: #9b5de5; text-decoration: none;">LeetCode Profile</a>
-  </p>
+<!-- 🚀 LeetCode + GeeksforGeeks Stats (Side by Side) -->
+<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; margin: 30px 0;">
+
+  <!-- 🧡 LeetCode Card -->
+  <div style="text-align: center;">
+    <a href="https://leetcode.com/u/RudraTiwari/" target="_blank" rel="noopener noreferrer">
+      <img 
+        src="https://leetcard.jacoblin.cool/RudraTiwari?theme=dark&font=Karma&ext=heatmap" 
+        alt="LeetCode Stats - RudraTiwari" 
+        height="300"
+        style="border-radius: 10px; box-shadow: 0 0 10px rgba(155,93,229,0.5);" 
+      />
+    </a>
+    <p style="font-family: 'Karma', sans-serif; font-size: 16px; color: #ccc; margin-top: 10px;">
+      🧡 View My 
+      <a href="https://leetcode.com/u/RudraTiwari/" target="_blank" rel="noopener noreferrer" style="color: #9b5de5; text-decoration: none;">
+        LeetCode Profile
+      </a>
+    </p>
+  </div>
+
+  <!-- 💚 GeeksforGeeks Card -->
+  <div style="text-align: center;">
+    <a href="https://www.geeksforgeeks.org/user/rudra15205/" target="_blank" rel="noopener noreferrer">
+      <img 
+        src="https://gfg-stats-card.vercel.app/?userName=rudra15205&theme=dark&border=green&title_color=lime"
+        alt="GeeksforGeeks Stats - Rudra15205" 
+        height="300"
+        style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,255,0,0.5);" 
+      />
+    </a>
+    <p style="font-family: 'Karma', sans-serif; font-size: 16px; color: #ccc; margin-top: 10px;">
+      💚 View My 
+      <a href="https://www.geeksforgeeks.org/user/rudra15205/" target="_blank" rel="noopener noreferrer" style="color: #00ff99; text-decoration: none;">
+        GeeksforGeeks Profile
+      </a>
+    </p>
+  </div>
+
 </div>
 
 

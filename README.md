@@ -44,9 +44,11 @@ Eager learner, problem solver, and anime enthusiast.
   <a href="https://leetcode.com/u/RudraTiwari/">
     <img src="https://leetcard.jacoblin.cool/RudraTiwari?theme=dark&font=Karma&ext=heatmap" height="300" alt="LeetCode Stats" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/wwwrudrab0mi/">
-  <img src="https://gfg-stats-card.vercel.app/api?username=wwwrudrab0mi&theme=dark" height="300" alt="GFG Stats"/>
+  <a href="https://auth.geeksforgeeks.org/user/wwwrudrab0mi/practice/">
+  <img src="https://geeksforgeeks.org/wp-content/uploads/gfg_200x200-min.png" height="150" alt="GFG Logo" />
+  <p>View My GFG Profile</p>
 </a>
+
 </div>
 
 ---
@@ -55,49 +57,52 @@ Eager learner, problem solver, and anime enthusiast.
 
 <p align="left">Feel free to connect with me 👇</p>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
-  <div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 40px;">
+
+  <div style="text-align: center;">
     <a href="https://www.linkedin.com/in/rudra-tiwari05/" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
     </a>
-    <p align="center"><b>LinkedIn</b></p>
+    <p style="margin-top: 6px; font-weight: 600;">LinkedIn</p>
   </div>
-  
-  <div align="center">
+
+  <div style="text-align: center;">
     <a href="https://x.com/tiwar95562" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="55" height="55" alt="X" />
     </a>
-    <p align="center"><b>X (Twitter)</b></p>
+    <p style="margin-top: 6px; font-weight: 600;">X (Twitter)</p>
   </div>
 
-  <div align="center">
+  <div style="text-align: center;">
     <a href="https://www.instagram.com/rudratiwari285/" target="_blank">
       <img src="https://skillicons.dev/icons?i=instagram" width="60" height="60" alt="Instagram" />
     </a>
-    <p align="center"><b>Instagram</b></p>
+    <p style="margin-top: 6px; font-weight: 600;">Instagram</p>
   </div>
 
-  <div align="center">
+  <div style="text-align: center;">
     <a href="https://stackoverflow.com/users/22989646/rudra-tiwari" target="_blank">
       <img src="https://skillicons.dev/icons?i=stackoverflow" width="60" height="60" alt="Stack Overflow" />
     </a>
-    <p align="center"><b>Stack Overflow</b></p>
+    <p style="margin-top: 6px; font-weight: 600;">Stack Overflow</p>
   </div>
 
-  <div align="center">
+  <div style="text-align: center;">
     <a href="https://github.com/Rudra152005" target="_blank">
       <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" />
     </a>
-    <p align="center"><b>GitHub</b></p>
+    <p style="margin-top: 6px; font-weight: 600;">GitHub</p>
   </div>
 
-  <div align="center">
+  <div style="text-align: center;">
     <a href="mailto:rudra.tiwari@example.com" target="_blank">
       <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
     </a>
-    <p align="center"><b>Gmail</b></p>
+    <p style="margin-top: 6px; font-weight: 600;">Gmail</p>
   </div>
+
 </div>
+
 
 ---
 

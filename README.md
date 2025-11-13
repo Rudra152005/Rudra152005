@@ -2,11 +2,15 @@
 
 ###
 
-<p align="left">Computer Science student with a passion for sports, travel, and photography. Currently exploring the world of tech while pursuing my degree at Lovely Professional University. Eager learner, problem solver, and anime enthusiast.</p>
+<p align="left">
+Computer Science student with a passion for sports, travel, and photography. 
+Currently exploring the world of tech while pursuing my degree at Lovely Professional University. 
+Eager learner, problem solver, and anime enthusiast.
+</p>
 
 ###
 
-<h2 align="left">Skill Set ;</h2>
+<h2 align="left">💻 Skill Set</h2>
 
 ###
 
@@ -42,6 +46,10 @@
 
 ###
 
+<h2 align="left">📊 GitHub Stats</h2>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rudra152005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph "  />
   <img src="https://streak-stats.demolab.com?user=Rudra152005&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -49,7 +57,39 @@
 
 ###
 
-<h2 align="left">Connect on :</h2>
+<h2 align="left">🏆 Competitive Programming Stats</h2>
+
+###
+
+<style>
+@media (max-width: 768px) {
+  .stats-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+@media (min-width: 769px) {
+  .stats-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+}
+</style>
+
+<div class="stats-container" align="center">
+  <a href="https://leetcode.com/u/RudraTiwari/">
+    <img src="https://leetcard.jacoblin.cool/RudraTiwari?theme=dark&font=Karma&ext=heatmap" height="300" alt="LeetCode Stats"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/wwwrudrab0mi/">
+    <img src="https://gfgstatscard.vercel.app/api?userName=wwwrudrab0mi&theme=dark" height="300" alt="GFG Stats"/>
+  </a>
+</div>
+
+###
+
+<h2 align="left">🌐 Connect with Me</h2>
 
 ###
 
@@ -74,6 +114,4 @@
 
 ###
 
-<p align="left">Thanks for stopping by, and I'm excited to connect and collaborate with fellow enthusiasts in this incredible community!</p>
-
-###
+<p align="left">Thanks for stopping by! I'm always excited to connect and collaborate with fellow developers and tech enthusiasts 🚀</p>

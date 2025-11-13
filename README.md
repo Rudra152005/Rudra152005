@@ -55,69 +55,19 @@
 
 <h2 align="left">📊 Coding Profiles</h2>
 
-<!-- 🌟 LeetCode Stats Card -->
-<div align="center" style="margin: 20px 0;">
-  <a href="https://leetcode.com/u/RudraTiwari/" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://leetcard.jacoblin.cool/RudraTiwari?theme=dark&font=Karma&ext=heatmap" 
-      alt="LeetCode Stats - RudraTiwari" 
-      height="300"
-      style="border-radius: 10px; box-shadow: 0 0 10px rgba(128,0,128,0.5);" 
-    />
-  </a>
-  <p style="font-family: 'Karma', sans-serif; font-size: 16px; color: #ccc; margin-top: 10px;">
-    🚀 View My <a href="https://leetcode.com/u/RudraTiwari/" target="_blank" rel="noopener noreferrer" style="color: #9b5de5; text-decoration: none;">LeetCode Profile</a>
-  </p>
-</div>
-
-
 ###
-
-<style>
-  /* Glow effect for cards */
-  .glow-card {
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    border-radius: 12px;
-  }
-  .glow-card:hover {
-    transform: scale(1.05);
-    box-shadow: 0px 0px 20px rgba(155, 135, 245, 0.7);
-  }
-
-  /* Link styles */
-  .profile-links a {
-    color: #c792ea;
-    text-decoration: none;
-    font-weight: bold;
-    transition: all 0.3s ease;
-  }
-  .profile-links a:hover {
-    text-shadow: 0 0 10px #bb86fc;
-    color: #ffffff;
-  }
-
-  /* Social icons glow */
-  .social-icons img {
-    transition: transform 0.3s ease, filter 0.3s ease;
-    border-radius: 10px;
-  }
-  .social-icons img:hover {
-    transform: scale(1.15);
-    filter: drop-shadow(0 0 10px #bb86fc);
-  }
-</style>
 
 <p align="center">
   <!-- LeetCode Stats -->
   <img class="glow-card" src="https://leetcard.jacoblin.cool/RudraTiwari?theme=dark&font=Nunito&ext=heatmap" height="250" alt="LeetCode Stats" />
   <img width="20" />
   <!-- GeeksforGeeks Stats -->
-  <img class="glow-card" src="https://gfg-stats-card.vercel.app/?userName=wwwrudrab0mi&theme=dark" height="250" alt="GFG Stats" />
+  
 </p>
 
 <p class="profile-links" align="center">
   <a href="https://leetcode.com/u/RudraTiwari/" target="_blank">🌐 View my LeetCode Profile</a> • 
-  <a href="https://www.geeksforgeeks.org/user/wwwrudrab0mi/" target="_blank">🌐 View my GFG Profile</a>
+  
 </p>
 
 ###
@@ -130,23 +80,52 @@
 
 ###
 
-<div class="social-icons" align="left">
-  <a href="https://www.linkedin.com/in/rudra-tiwari05/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://x.com/tiwar95562" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
-  </a>
-  <a href="https://www.instagram.com/rudratiwari285/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
-  <a href="https://stackoverflow.com/users/22989646/rudra-tiwari" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo" />
-  </a>
-</div>
+<table align="center" cellpadding="10">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/rudra-tiwari05/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="64" height="64" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://x.com/tiwar95562" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="64" height="64" alt="X"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/rudratiwari285/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=instagram" width="64" height="64" alt="Instagram"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://stackoverflow.com/users/22989646/rudra-tiwari" target="_blank">
+        <img src="https://skillicons.dev/icons?i=stackoverflow" width="64" height="64" alt="Stack Overflow"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Rudra152005" target="_blank">
+        <img src="https://skillicons.dev/icons?i=github" width="64" height="64" alt="GitHub"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:rudra.tiwari@example.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=gmail" width="64" height="64" alt="Gmail"/>
+      </a>
+    </td>
+  </tr>
 
-###
+  <tr>
+    <td align="center"><b>LinkedIn</b></td>
+    <td align="center"><b>X (Twitter)</b></td>
+    <td align="center"><b>Instagram</b></td>
+    <td align="center"><b>Stack Overflow</b></td>
+    <td align="center"><b>GitHub</b></td>
+    <td align="center"><b>Gmail</b></td>
+  </tr>
+</table>
 
-<p align="left">
-  Thanks for stopping by, and I'm excited to connect and collaborate with fellow enthusiasts in this incredible community!
-</p>
+
+
+---
+
+<p align="left">Thanks for stopping by! I'm always excited to connect and collaborate with fellow developers and tech enthusiasts 🚀</p>

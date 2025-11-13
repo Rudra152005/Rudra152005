@@ -1,117 +1,81 @@
-<h1 align="left">Hey there! I'm Rudra</h1>
-
-###
+<h1 align="left">Hey there! I'm Rudra 👋</h1>
 
 <p align="left">
-Computer Science student with a passion for sports, travel, and photography. 
-Currently exploring the world of tech while pursuing my degree at Lovely Professional University. 
+Computer Science student with a passion for sports, travel, and photography.  
+Currently exploring the world of tech while pursuing my degree at Lovely Professional University.  
 Eager learner, problem solver, and anime enthusiast.
 </p>
 
-###
+---
 
 <h2 align="left">💻 Skill Set</h2>
 
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png" height="40" alt="Java logo"  />
-  <img width="12" />
-  <img src="https://www.php.net/images/logos/new-php-logo.png" height="40" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png" height="40" alt="Java" />
+  <img src="https://www.php.net/images/logos/new-php-logo.png" height="40" alt="PHP" />
 </div>
 
-###
+---
 
 <h2 align="left">📊 GitHub Stats</h2>
 
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rudra152005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph "  />
-  <img src="https://streak-stats.demolab.com?user=Rudra152005&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rudra152005&layout=compact&theme=dracula" height="150" alt="Languages" />
+  <img src="https://streak-stats.demolab.com?user=Rudra152005&theme=dracula" height="150" alt="Streak Stats" />
 </div>
 
-###
+---
 
 <h2 align="left">🏆 Competitive Programming Stats</h2>
 
-###
-
-<style>
-@media (max-width: 768px) {
-  .stats-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-}
-@media (min-width: 769px) {
-  .stats-container {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-  }
-}
-</style>
-
-<div class="stats-container" align="center">
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
   <a href="https://leetcode.com/u/RudraTiwari/">
-    <img src="https://leetcard.jacoblin.cool/RudraTiwari?theme=dark&font=Karma&ext=heatmap" height="300" alt="LeetCode Stats"/>
+    <img src="https://leetcard.jacoblin.cool/RudraTiwari?theme=dark&font=Karma&ext=heatmap" height="300" alt="LeetCode Stats" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/wwwrudrab0mi/">
-    <img src="https://gfgstatscard.vercel.app/api?userName=wwwrudrab0mi&theme=dark" height="300" alt="GFG Stats"/>
+    <img src="https://gfgstatscard.vercel.app/api?userName=wwwrudrab0mi&theme=dark" height="300" alt="GFG Stats" />
   </a>
 </div>
 
-###
+---
 
 <h2 align="left">🌐 Connect with Me</h2>
 
-###
-
-<p align="left">Feel free to connect with me</p>
-
-###
+<p align="left">Feel free to connect with me 👇</p>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/rudra-tiwari05/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
   </a>
   <a href="https://x.com/tiwar95562" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="Twitter" />
   </a>
   <a href="https://www.instagram.com/rudratiwari285/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" />
   </a>
   <a href="https://stackoverflow.com/users/22989646/rudra-tiwari" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+    <img src="https://skillicons.dev/icons?i=stackoverflow" width="48" height="48" alt="Stack Overflow" />
+  </a>
+  <a href="https://github.com/Rudra152005" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+  </a>
+  <a href="mailto:rudra.tiwari@example.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email" />
   </a>
 </div>
 
-###
+---
 
 <p align="left">Thanks for stopping by! I'm always excited to connect and collaborate with fellow developers and tech enthusiasts 🚀</p>

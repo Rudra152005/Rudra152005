@@ -1,28 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Hi%20There,%20I'm%20Rudra%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Builder%20%7C%20Explorer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=%3C%2F%3E%20CODE.%20LEARN.%20BUILD.%20REPEAT%20%3C%2F%3E&fontSize=34&fontColor=A78BFA&animation=fadeIn&fontAlignY=35&desc=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&descAlignY=55&descSize=16&descColor=ffffff" width="100%"/>
 
 <a href="https://github.com/Rudra152005">
   <img src="https://komarev.com/ghpvc/?username=Rudra152005&label=Profile%20Views&color=8a2be2&style=for-the-badge" alt="profile views"/>
 </a>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+LPU;Full-Stack+Developer;Competitive+Programmer;Sports+%7C+Travel+%7C+Photography;Anime+Enthusiast+%F0%9F%8D%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=Developer+%7C+Problem+Solver+%7C+Lifelong+Learner;Computer+Science+Student+%40+LPU;Full-Stack+Developer;Competitive+Programmer" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-## 🧭 About Me
+## `$ whoami`
 
 ```yaml
-name: Rudra Tiwari
-role: Computer Science Student @ Lovely Professional University
-focus: Web Development · DSA · Problem Solving
-passions: [Sports, Travel, Photography, Anime]
-currently_learning: Advanced System Design & Cloud
-fun_fact: "I debug better after a good cup of chai ☕"
+const aboutMe = {
+  name: "Rudra Tiwari",
+  role: "Computer Science Student @ Lovely Professional University",
+  code: ["Java", "JS", "Python", "C++"],
+  askMeAbout: ["DSA", "Web Dev", "Problem Solving"],
+  learning: "Building cool things",
+  goal: "Create impact through code",
+  funFact: "I debug with ☕ + music 🎧"
+};
+// Always building. Always learning.
 ```
 
 <br/>
@@ -98,6 +100,17 @@ fun_fact: "I debug better after a good cup of chai ☕"
 
 <br/>
 
+## 🌆 3D Contribution Graph
+
+<div align="center">
+
+<!-- Auto-updated by .github/workflows/profile-3d-contrib.yml — do not edit by hand -->
+<img src="https://raw.githubusercontent.com/Rudra152005/Rudra152005/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
+
+</div>
+
+<br/>
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -112,19 +125,8 @@ fun_fact: "I debug better after a good cup of chai ☕"
 
 <br/>
 
-## 🌆 3D Contribution Graph
-
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
-<!-- Auto-updated by .github/workflows/profile-3d-contrib.yml — do not edit by hand -->
-<img src="https://raw.githubusercontent.com/Rudra152005/Rudra152005/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
-  
-  <i>Thanks for stopping by! Always excited to connect and collaborate 🚀</i>
+  <i>Discipline &gt; Motivation · Thanks for stopping by! Always excited to connect and collaborate 🚀</i>
 </div>

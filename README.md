@@ -21,7 +21,7 @@
 
 ## 👨‍💻 `~/about-me` — Terminal
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+<img align="right" width="320" src="about-me-illustration.svg" alt="developer workstation"/>
 
 ```javascript
 const aboutMe = {

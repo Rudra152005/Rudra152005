@@ -51,6 +51,17 @@ fun_fact: "I debug better after a good cup of chai ☕"
 
 <br/>
 
+## 📌 Pinned & Top Repositories
+
+<div align="center">
+
+<!-- Auto-updated by .github/workflows/metrics.yml — do not edit by hand -->
+<img src="https://raw.githubusercontent.com/Rudra152005/Rudra152005/main/github-metrics.svg" width="100%" alt="pinned repositories metrics" />
+
+</div>
+
+<br/>
+
 ## 📊 GitHub Analytics
 
 <div align="center">

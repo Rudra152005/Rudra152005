@@ -16,7 +16,7 @@ jobs:
       - name: generate-github-3d-contribution
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
         with:
           username: Rudra152005
 

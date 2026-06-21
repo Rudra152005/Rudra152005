@@ -17,8 +17,7 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
-        with:
-          username: Rudra152005
+          USERNAME: Rudra152005
 
       - name: commit and push artifacts
         run: |

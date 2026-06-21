@@ -112,6 +112,17 @@ fun_fact: "I debug better after a good cup of chai ☕"
 
 <br/>
 
+## 🌆 3D Contribution Graph
+
+<div align="center">
+
+<!-- Auto-updated by .github/workflows/profile-3d-contrib.yml — do not edit by hand -->
+<img src="https://raw.githubusercontent.com/Rudra152005/Rudra152005/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
+
+</div>
+
+<br/>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
   

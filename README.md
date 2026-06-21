@@ -1,17 +1,17 @@
 <div align="center">
 
-<!-- ===== HERO BANNER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,25:1a1040,50:2d1b69,75:1a0040,100:0a0e27&height=280&section=header&text=RUDRA%20TIWARI&fontSize=60&fontColor=00f0ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=20&descColor=b388ff" width="100%"/>
+<!-- ===== HERO BANNER (dark monochrome — see hero-banner.svg, commit it to your repo root) ===== -->
+<img src="hero-banner.svg" alt="Rudra Tiwari" width="100%"/>
 
 <!-- ===== DYNAMIC TIME-BASED GREETING + TYPING INTRO ===== -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=750&lines=%3C+Hello%2C+I'm+Rudra+%F0%9F%91%8B+%2F%3E;Full+Stack+Developer+%F0%9F%92%BB;DSA+%2B+System+Design+Enthusiast+%F0%9F%A7%A0;Building+things+that+matter+%F0%9F%9A%80;Code.+Learn.+Build.+Repeat." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=750&lines=%3C+Hello%2C+I'm+Rudra+%2F%3E;Full+Stack+Developer;DSA+%2B+System+Design+Enthusiast;Code.+Learn.+Build.+Repeat." alt="Typing SVG"/>
 
 <br/>
 
 <!-- ===== LIVE COUNTERS ===== -->
-<img src="https://komarev.com/ghpvc/?username=Rudra152005&label=Profile%20Views&color=00f0ff&style=for-the-badge&labelColor=0a0e27" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/Rudra152005?label=Followers&style=for-the-badge&color=b388ff&labelColor=0a0e27" alt="followers"/>
-<img src="https://img.shields.io/github/stars/Rudra152005?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=Total%20Stars&color=00f0ff&labelColor=0a0e27" alt="total stars"/>
+<img src="https://komarev.com/ghpvc/?username=Rudra152005&label=Profile%20Views&color=111827&style=for-the-badge&labelColor=000000" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/Rudra152005?label=Followers&style=for-the-badge&color=111827&labelColor=000000&logoColor=3B82F6" alt="followers"/>
+<img src="https://img.shields.io/github/stars/Rudra152005?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=Total%20Stars&color=111827&labelColor=000000" alt="total stars"/>
 
 </div>
 
@@ -83,12 +83,12 @@ const aboutMe = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rudra152005&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00f0ff&icon_color=b388ff&text_color=c9d1d9" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudra152005&theme=tokyonight&hide_border=true&background=0a0e27&stroke=00f0ff&ring=b388ff&fire=00f0ff&currStreakLabel=00f0ff" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rudra152005&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=3B82F6&icon_color=E5E7EB&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudra152005&theme=github_dark&hide_border=true&background=000000&stroke=3B82F6&ring=E5E7EB&fire=3B82F6&currStreakLabel=3B82F6" height="170"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra152005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00f0ff&text_color=c9d1d9&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra152005&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=3B82F6&text_color=c9d1d9&langs_count=8" height="170"/>
 
 </div>
 
@@ -98,7 +98,7 @@ const aboutMe = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rudra152005&theme=tokyo-night&bg_color=0a0e27&color=00f0ff&line=b388ff&point=ffffff&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rudra152005&theme=github-compact&bg_color=000000&color=3B82F6&line=3B82F6&point=ffffff&hide_border=true&hide_title=false" width="100%"/>
 
 <br/><br/>
 
@@ -117,10 +117,10 @@ const aboutMe = {
 
 | Focus Area | Status |
 |---|---|
-| 🧩 Solving DSA Problems | `In Progress` |
-| 🌐 Building Full Stack Projects | `In Progress` |
-| 🏗️ Learning System Design | `In Progress` |
-| ☁️ Exploring Cloud Technologies | `Exploring` |
+| Solving DSA Problems | `In Progress` |
+| Building Full Stack Projects | `In Progress` |
+| Learning System Design | `In Progress` |
+| Exploring Cloud Technologies | `Exploring` |
 
 </div>
 
@@ -132,18 +132,11 @@ const aboutMe = {
 
 <div align="center">
 
-<!-- Replace REPO_NAME_1 / REPO_NAME_2 / REPO_NAME_3 with your actual repo names -->
-<a href="https://github.com/Rudra152005/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rudra152005&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00f0ff&icon_color=b388ff&text_color=c9d1d9" height="165"/>
-</a>
-<a href="https://github.com/Rudra152005/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rudra152005&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00f0ff&icon_color=b388ff&text_color=c9d1d9" height="165"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/Rudra152005/REPO_NAME_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rudra152005&repo=REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00f0ff&icon_color=b388ff&text_color=c9d1d9" height="165"/>
+<!-- These use your real repo name. Duplicate the <a><img></a> block and swap
+     repo=YOUR_REPO_NAME for any other repos you want to feature. The repo
+     must be public and must exactly match its name on GitHub (case-sensitive). -->
+<a href="https://github.com/Rudra152005/DSA-Prep">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rudra152005&repo=DSA-Prep&theme=github_dark&hide_border=true&bg_color=000000&title_color=3B82F6&icon_color=E5E7EB&text_color=c9d1d9" height="165"/>
 </a>
 
 </div>
@@ -156,7 +149,7 @@ const aboutMe = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rudra152005&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rudra152005&theme=github_dark&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" />
 
 </div>
 
@@ -197,7 +190,7 @@ From: Connect WakaTime + waka-readme-stats Action to populate this automatically
 
 <img src="https://leetcard.jacoblin.cool/RudraTiwari?theme=dark&font=Fira+Code&ext=heatmap" height="220"/>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-RudraTiwari-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0e27)](https://leetcode.com/u/RudraTiwari/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-RudraTiwari-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000)](https://leetcode.com/u/RudraTiwari/)
 
 </div>
 
@@ -226,11 +219,11 @@ From: Connect WakaTime + waka-readme-stats Action to populate this automatically
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0a0e27?style=for-the-badge&logo=github&logoColor=00f0ff)](https://github.com/Rudra152005)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0e27?style=for-the-badge&logo=linkedin&logoColor=00f0ff)](https://www.linkedin.com/in/rudra-tiwari05/)
-[![X](https://img.shields.io/badge/X-0a0e27?style=for-the-badge&logo=x&logoColor=00f0ff)](https://x.com/tiwar95562)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0e27?style=for-the-badge&logo=vercel&logoColor=b388ff)](https://github.com/Rudra152005)
-[![Gmail](https://img.shields.io/badge/Gmail-0a0e27?style=for-the-badge&logo=gmail&logoColor=00f0ff)](mailto:rudra.tiwari@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=3B82F6)](https://github.com/Rudra152005)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=3B82F6)](https://www.linkedin.com/in/rudra-tiwari05/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=3B82F6)](https://x.com/tiwar95562)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=E5E7EB)](https://github.com/Rudra152005)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=3B82F6)](mailto:rudra.tiwari@example.com)
 
 </div>
 
@@ -240,13 +233,13 @@ From: Connect WakaTime + waka-readme-stats Action to populate this automatically
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Code.+Learn.+Build.+Repeat." alt="footer quote"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Code.+Learn.+Build.+Repeat." alt="footer quote"/>
 
-<img src="https://img.shields.io/github/last-commit/Rudra152005/Rudra152005?style=for-the-badge&label=Last%20Updated&color=b388ff&labelColor=0a0e27" alt="last updated"/>
-<img src="https://komarev.com/ghpvc/?username=Rudra152005&label=Visitors&color=00f0ff&style=for-the-badge&labelColor=0a0e27" alt="visitors"/>
+<img src="https://img.shields.io/github/last-commit/Rudra152005/Rudra152005?style=for-the-badge&label=Last%20Updated&color=E5E7EB&labelColor=000000" alt="last updated"/>
+<img src="https://komarev.com/ghpvc/?username=Rudra152005&label=Visitors&color=3B82F6&style=for-the-badge&labelColor=000000" alt="visitors"/>
 
 <sub>⚙️ Stats auto-refresh via GitHub Actions &amp; live APIs — generated and maintained automatically</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,25:1a1040,50:2d1b69,75:1a0040,100:0a0e27&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0B1220,100:000000&height=140&section=footer" width="100%"/>
 
 </div>

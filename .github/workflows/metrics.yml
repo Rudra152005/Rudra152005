@@ -19,7 +19,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_repositories: yes
-          plugin_repositories_order: pinned, starred   # shows your pinned repos first, falls back to top-starred
+          plugin_repositories_order: starred   # top repos sorted by star count
           plugin_repositories_limit: 6
           config_timezone: Asia/Kolkata
           filename: github-metrics.svg
